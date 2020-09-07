@@ -1,5 +1,5 @@
 ## Simple Text Summary Model Using NLP
-##### Ashraf Rahman
+##### Ashraf Rahman - Article available at link(https://medium.com/@96ashraf96/nlp-text-summarisation-in-5-easy-steps-8b4ae00400e6)
 
 What is NLP?
 - NLP also is known as '***Natural language processing***' is a field in machine learning which is used to ***understand, analyse and generate*** natural human texts.
